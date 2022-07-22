@@ -1,0 +1,22 @@
+{
+  "name": "discordbiochanger",
+  "version": "0.0.2",
+  "description": "discord auto bio changer",
+  "main": "changer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bio",
+    "changer",
+    "discord bio",
+    "nodejs"
+  ],
+  "author": "mid0",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security"
+  }
+}
